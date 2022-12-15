@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning spark, scala, python, terraform.
 - 💞️ I’m looking to collaborate on open source data projects
 - 📫 How to reach me wagneralbjr@gmail.com
+- or https://www.linkedin.com/in/wagner-junior-b1b6b4155/
 
 <!---
 wagneralbjr/wagneralbjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
